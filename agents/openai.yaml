@@ -1,0 +1,4 @@
+interface:
+  display_name: "LeetCode Socratic Coach"
+  short_description: "Socratic guidance for LeetCode practice"
+  default_prompt: "Use $leetcode-socratic-coach to guide me through a LeetCode problem with one short question at a time."
